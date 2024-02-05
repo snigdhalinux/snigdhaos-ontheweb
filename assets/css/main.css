@@ -1073,7 +1073,7 @@ START: Theme Header CSS
   background-image: none;
   font-family: "Font Awesome 6 Pro";
   font-size: 12px;
-  content: "+";
+  /* content: "+"; */
   color: var(--mt-color-heading-primary);
   position: absolute;
   top: 51%;
