@@ -1312,11 +1312,11 @@ label {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #FFFFFF;
-	border-radius: 999px;
+	/* background: #FFFFFF; */
+	/* border-radius: 999px; */
 	font-size: 40px;
 	color: #754FFE;
-	box-shadow: 0px 16px 24px 4px rgba(1, 21, 41, 0.2);
+	/* box-shadow: 0px 16px 24px 4px rgba(1, 21, 41, 0.2); */
 	margin: 0 auto 15px;
 }
 .services-items-wrapper ul li a span {
