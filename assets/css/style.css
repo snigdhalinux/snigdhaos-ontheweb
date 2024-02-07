@@ -1636,7 +1636,7 @@ label {
 
 /* 15. Team */
 .team-bg {
-	background: #754FFE;
+	background: #22202c;
 	padding: 130px 0 140px;
 }
 .team-wrapper {
@@ -1648,7 +1648,8 @@ label {
 }
 .team-thumb {
 	background: #00172F;
-	border-radius: 16px;
+	/* position: calc(width/2); */
+	border-radius: 999px;
 	overflow: hidden;
 	max-width: 170px;
 	margin: 0 auto 30px;
@@ -2884,7 +2885,7 @@ blockquote::before {
 .footer-bg {
 	background-position: right top;
 	background-size: cover;
-	border-top: 1px solid #192E44;
+	border-top: 1px solid #22202c;
 }
 .footer-top-wrap {
 	padding: 120px 0 30px;
@@ -2974,7 +2975,7 @@ blockquote::before {
 	width: 100%;
 	background: transparent;
 	border: none;
-	border-bottom: 1px solid #192E44;
+	border-bottom: 1px solid #22202c;
 	padding: 0 0 15px 55px;
 	color: #FEFFFE;
 	font-size: 16px;
@@ -3022,7 +3023,7 @@ blockquote::before {
    26. Preloader
 =====================================*/
 #preloader{
-	background-color: #00172F;
+	background-color: #22202c;
 	height: 100%;
 	width: 100%;
 	position: fixed;
