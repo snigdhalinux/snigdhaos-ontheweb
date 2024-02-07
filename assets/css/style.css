@@ -649,7 +649,7 @@ span-eshan {
 	max-height: 100%;
 	overflow-y: auto;
 	overflow-x: hidden;
-	background: #011529;
+	background: #22202c;
 	padding: 0px 0px;
 	z-index: 5;
 	box-shadow: -9px 0 14px 0px rgb(0 0 0 / 6%);
@@ -689,14 +689,14 @@ span-eshan {
 .mobile-menu .navigation li {
 	position: relative;
 	display: block;
-	border-top: 1px solid #11263b;
+	border-top: 1px solid #22202c;
 	list-style: none;
 }
 .mobile-menu .navigation:last-child {
-	border-bottom: 1px solid #11263b;
+	border-bottom: 1px solid #22202c;
 }
 .mobile-menu .navigation li>ul>li:first-child {
-	border-top: 1px solid #11263b;
+	border-top: 1px solid #22202c;
 }
 .mobile-menu .navigation li > a {
     position: relative;
@@ -792,7 +792,7 @@ span-eshan {
 	-webkit-transition: all 500ms ease;
 	-o-transition: all 500ms ease;
 	transition: all 500ms ease;
-	border: 1px solid #11263b;
+	border: 1px solid #22202c;
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -815,7 +815,8 @@ span-eshan {
 	margin-top: 0;
 	width: 48px;
 	height: 42px;
-	border: 2px solid #fff;
+	/* border: 1px solid #fff; */
+	/* border-radius: 999px; */
 	text-align: center;
 	line-height: 38px;
 }
@@ -1521,8 +1522,9 @@ span-eshan {
 
 /* 13. Marquee */
 .marquee-area {
-	background: #754FFE;
-	transform: rotate(3deg);
+	background: #22202c;
+	/* border: solid; */
+	transform: rotate(0deg);
 	padding: 28px 0;
 	overflow: hidden;
 }
@@ -1562,7 +1564,7 @@ span-eshan {
 	}
 }
 .marquee-style-two {
-	transform: rotate(-3deg);
+	transform: rotate(-0deg);
 }
 
 /* 14. Help */
