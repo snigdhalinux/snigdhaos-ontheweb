@@ -1062,6 +1062,9 @@ span-eshan {
 	padding: 75px 0 128px;
 	border-top: 1px solid rgba(254, 255, 254, 0.1);
 }
+.invert { 
+	filter: invert(100%); 
+}
 .brand-title {
 	text-align: center;
 	font-size: 20px;
